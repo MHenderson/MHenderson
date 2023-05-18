@@ -10,8 +10,8 @@ Here are a few of my R projects:
 
 - [todotxt](https://github.com/MHenderson/todotxt) - parse todo.txt files in R.
 
-- [mhall-in-r](https://github.com/MHenderson/mhall-in-r) - extending latin rectangles in R using Ryser's theorem.
+- [ryser-in-r](https://github.com/MHenderson/ryser-in-r) - extending latin rectangles in R using Ryser's theorem.
 
-- [MHenderson/maximal-room-squares](https://github.com/MHenderson/maximal-room-squares) - generate maximal partial Room squares in R.
+- [maximal-room-squares](https://github.com/MHenderson/maximal-room-squares) - generate maximal partial Room squares in R.
 
 For my data visualisation work please look at the [tidy-tuesday](https://github.com/MHenderson/tidy-tuesday) repository which collects all of my efforts towards the weekly Tidy Tuesday project.
