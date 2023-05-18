@@ -2,7 +2,7 @@ I am a data scientist who enjoys programming in R, data visualisation, graph the
 
 Here are a few of my R projects:
 
-- [minion-r/rminion]([GitHub - minion-r/rminion: Call Minion from R](https://github.com/minion-r/rminion)) - call the Minion constraint solver from R
+- [minion-r/rminion](https://github.com/minion-r/rminion) - call the Minion constraint solver from R
 
 - [funcgeo](https://github.com/MHenderson/funcgeo) - functional geometry in R.
 
