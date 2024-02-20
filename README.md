@@ -12,4 +12,4 @@ Here are a few of my R projects:
 
 For my data visualisation work please look at the [tidy-tuesday](https://github.com/MHenderson/tidy-tuesday) repository which collects all of my efforts towards the weekly Tidy Tuesday project.
 
-I am working on a [monograph](https://github.com/MHenderson/room) about [Room Squares]([Room square - Wikipedia](https://en.wikipedia.org/wiki/Room_square)).
+I am working on a [monograph](https://github.com/MHenderson/room) about [Room Squares](https://en.wikipedia.org/wiki/Room_square).
