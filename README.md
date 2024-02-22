@@ -1,6 +1,6 @@
 Data scientist who enjoys programming in R, data visualisation, graph theory and combinatorics.
 
-Here are a few of my R projects:
+Here are a few of my projects:
 
 - [funcgeo](https://github.com/MHenderson/funcgeo) - functional geometry in R.
 
