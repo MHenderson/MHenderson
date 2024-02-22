@@ -4,15 +4,19 @@ Here are a few of my R projects:
 
 - [funcgeo](https://github.com/MHenderson/funcgeo) - functional geometry in R.
 
+- [squarelimit](https://github.com/MHenderson/squarelimit) - use funcgeo to recreate Escher's Square Limit.
+
 - [mhall-in-r](https://github.com/MHenderson/mhall-in-r) - extending latin rectangles in R using Marshall Hall's theorem.
 
-- [ryser-in-r](https://github.com/MHenderson/ryser-in-r) - extending latin rectangles in R using Ryser's theorem.
+- [korean-numbers](https://github.com/MHenderson/korean-numbers) - a Javascript flashcard style game for learning Korean number systems.
 
 I am working on a [monograph](https://github.com/MHenderson/room) about [Room Squares](https://en.wikipedia.org/wiki/Room_square).
 
 Here are a few other projects related to Room squares.
 
 - [maximal-room-squares](https://github.com/MHenderson/maximal-room-squares) - generate maximal partial Room squares in R.
+
+- [more-maximal-room-squares](https://github.com/MHenderson/more-maximal-room-squares) - an R6-based implementation of maximal partial Room squares.
 
 - [room-square-generator](https://github.com/MHenderson/room-square-generator) - a Java application for generating Room squares.
 
