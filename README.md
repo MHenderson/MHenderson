@@ -23,3 +23,5 @@ Here are a few other projects related to Room squares.
 - [room-squares-bib](https://github.com/MHenderson/room-squares-bib) - bibliography of Room squares.
 
 For my data visualisation work please look at the [tidy-tuesday](https://github.com/MHenderson/tidy-tuesday) repository which collects all of my efforts towards the weekly [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday) project.
+
+My R packages are hosted at https://mhenderson.r-universe.dev
