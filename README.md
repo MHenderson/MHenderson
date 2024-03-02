@@ -10,7 +10,7 @@ Here are a few of my projects:
 
 - [korean-numbers](https://github.com/MHenderson/korean-numbers) - flashcard game for learning Korean number systems.
 
-I am working on a [monograph](https://github.com/MHenderson/room) about [Room Squares](https://en.wikipedia.org/wiki/Room_square).
+I am writing a [monograph](https://github.com/MHenderson/room) about [Room Squares](https://en.wikipedia.org/wiki/Room_square).
 
 Here are a few other projects related to Room squares.
 
