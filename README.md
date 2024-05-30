@@ -16,6 +16,8 @@ Here are a few other projects of mine involving Room squares:
 
 - [room-squares-bib](https://github.com/MHenderson/room-squares-bib) - a bibliography of Room squares.
 
+- [room-squares-animation](https://github.com/MHenderson/room-squares-animation) - animate sequences of partial Room squares.
+
 I am also working on an R package ([keedwell](https://github.com/MHenderson/keedwell)) for completion and embedding problems for latin squares.
 
 The usage of this package is demonstrated in the following two repositories:
@@ -24,11 +26,17 @@ The usage of this package is demonstrated in the following two repositories:
 
 - [ryser-in-r](https://github.com/MHenderson/ryser-in-r) - extending latin rectangles in R using Ryser's theorem.
 
+I have also been working on two Python packages for list-colourings of graphs:
+
+- [vizing](https://github.com/MHenderson/vizing) - constraint-based list-colouring in Python.
+
+- [listcolouring](https://github.com/MHenderson/listcolouring) - list colouring in Python with NetworkX.
+
 I have dabbled in data visualisation. Please see the [tidy-tuesday](https://github.com/MHenderson/tidy-tuesday) repository which collects all of my efforts towards the weekly [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday) project.
 
 I am also interested in functional programming.
 
 - [funcgeo](https://github.com/MHenderson/funcgeo) - functional geometry in R.
 
-- [squarelimit](https://github.com/MHenderson/squarelimit) - recreate Escher's [*Square Limit*](https://www.nga.gov/collection/art-object-page.135604.html) with **funcgeo**.
+- [squarelimit](https://github.com/MHenderson/squarelimit) - recreate Escher's [*Square Limit*](https://www.nga.gov/collection/art-object-page.135604.html) with funcgeo.
 
