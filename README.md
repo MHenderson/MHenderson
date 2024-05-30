@@ -1,4 +1,4 @@
-I am R and Python developer who is mostly interested in graph theory and combinatorics.
+R and Python developer who is mostly interested in graph theory and combinatorics.
 
 My R packages can be found at: https://mhenderson.r-universe.dev
 
