@@ -26,10 +26,3 @@ The usage of {keedwell} is demonstrated in the following two repositories:
 
 - [ryser-in-r](https://github.com/MHenderson/ryser-in-r) - extending latin rectangles in R using Ryser's theorem.
 
-I have also been working on two Python packages for list-colourings of graphs:
-
-- [{vizing}](https://github.com/MHenderson/vizing) - constraint-based list-colouring in Python.
-
-- [{listcolouring}](https://github.com/MHenderson/listcolouring) - list colouring in Python with NetworkX.
-
-
