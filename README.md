@@ -32,11 +32,4 @@ I have also been working on two Python packages for list-colourings of graphs:
 
 - [{listcolouring}](https://github.com/MHenderson/listcolouring) - list colouring in Python with NetworkX.
 
-I have dabbled in data visualisation. Please see the [tidy-tuesday](https://github.com/MHenderson/tidy-tuesday) repository which collects all of my efforts towards the weekly [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday) project.
-
-I am also interested in functional programming and have created an R package for functional geometry.
-
-- [{funcgeo}](https://github.com/MHenderson/funcgeo) - functional geometry in R.
-
-- [squarelimit](https://github.com/MHenderson/squarelimit) - recreate Escher's [*Square Limit*](https://www.nga.gov/collection/art-object-page.135604.html) with {funcgeo}.
 
