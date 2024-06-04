@@ -1,12 +1,16 @@
-R and Python developer who is mostly interested in graph theory and combinatorics.
+# MHenderson
+
+R/Python developer mostly interested in graph theory and combinatorics.
 
 My R packages can be found at: https://mhenderson.r-universe.dev
 
 My Python packages can be found at: https://pypi.org/user/MHenderson/
 
+## Room Squares
+
 In 2024 I am writing a [monograph](https://github.com/MHenderson/room) about [Room Squares](https://en.wikipedia.org/wiki/Room_square).
 
-Here are a few other projects of mine involving Room squares:
+Here are several other Room square related projects of mine:
 
 - [maximal-room-squares](https://github.com/MHenderson/maximal-room-squares) - generate maximal partial Room squares in R.
 
@@ -18,7 +22,9 @@ Here are a few other projects of mine involving Room squares:
 
 - [room-squares-animation](https://github.com/MHenderson/room-squares-animation) - animate sequences of partial Room squares.
 
-I am also working on an R package ([{keedwell}](https://github.com/MHenderson/keedwell)) for completion and embedding problems for latin squares.
+## Latin Squares
+
+I am also working on an R package [{keedwell}](https://github.com/MHenderson/keedwell) about completion and embedding problems for latin squares.
 
 The usage of {keedwell} is demonstrated in the following two repositories:
 
