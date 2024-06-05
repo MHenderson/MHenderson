@@ -1,14 +1,14 @@
 R/Python developer interested in graph theory and combinatorics.
 
-R packages: https://mhenderson.r-universe.dev
+My R packages: https://mhenderson.r-universe.dev
 
-Python packages: https://pypi.org/user/MHenderson/
+My Python packages: https://pypi.org/user/MHenderson/
 
 ## Room Squares
 
 I am writing a [monograph](https://github.com/MHenderson/room) about [Room Squares](https://en.wikipedia.org/wiki/Room_square).
 
-More Room square related projects:
+More Room square related projects of mine:
 
 - [maximal-room-squares](https://github.com/MHenderson/maximal-room-squares) - generate maximal partial Room squares in R.
 
