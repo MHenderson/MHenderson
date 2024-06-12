@@ -10,6 +10,8 @@ I am writing a [monograph](https://github.com/MHenderson/room) about [Room Squar
 
 More Room square related projects of mine:
 
+- [wallis](https://github.com/MHenderson/wallis) - an R package for Room squares.
+
 - [maximal-room-squares](https://github.com/MHenderson/maximal-room-squares) - generate maximal partial Room squares in R.
 
 - [more-maximal-room-squares](https://github.com/MHenderson/more-maximal-room-squares) - an R6-based implementation of maximal partial Room squares.
