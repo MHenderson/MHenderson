@@ -1,5 +1,3 @@
-R/Python developer interested in graph theory and combinatorics.
-
 My R packages: https://mhenderson.r-universe.dev
 
 My Python packages: https://pypi.org/user/MHenderson/
