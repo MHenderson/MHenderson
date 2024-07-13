@@ -4,7 +4,7 @@ My Python packages: https://pypi.org/user/MHenderson/
 
 ## Room Squares
 
-I am writing a [monograph](https://github.com/MHenderson/room) about [Room Squares](https://en.wikipedia.org/wiki/Room_square).
+I am writing a [book](https://github.com/MHenderson/room) about [Room Squares](https://en.wikipedia.org/wiki/Room_square).
 
 More Room square related projects of mine:
 
