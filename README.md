@@ -1,5 +1,5 @@
-My R packages: https://mhenderson.r-universe.dev
-My Python packages: https://pypi.org/user/MHenderson/
+- My R packages: https://mhenderson.r-universe.dev
+- My Python packages: https://pypi.org/user/MHenderson/
 
 ## Room Squares
 
