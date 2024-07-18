@@ -3,7 +3,7 @@
 
 ## Room Squares
 
-I am writing a [book](https://github.com/MHenderson/room) and developing an R package [{wallis}](https://github.com/MHenderson/wallis) about [Room Squares](https://en.wikipedia.org/wiki/Room_square).
+I am writing a [book](https://github.com/MHenderson/room) and developing an R package [{wallis}](https://github.com/MHenderson/wallis) for constructing [Room Squares](https://en.wikipedia.org/wiki/Room_square).
 
 Use of {wallis} is demonstrated in these repositories:
 
@@ -12,7 +12,7 @@ Use of {wallis} is demonstrated in these repositories:
 
 ## Latin Squares
 
-I am also developing an R package [{keedwell}](https://github.com/MHenderson/keedwell) about completion and embedding problems for latin squares.
+I am also developing an R package [{keedwell}](https://github.com/MHenderson/keedwell) for completing and embedding (partial) latin squares/rectangles.
 
 Use of {keedwell} is demonstrated in these repositories:
 
