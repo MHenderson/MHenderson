@@ -14,7 +14,7 @@ Usage of {wallis} is demonstrated in these repositories:
 
 ## Latin Squares
 
-I am also developing an R package [{keedwell}](https://github.com/MHenderson/keedwell) for completing and embedding (partial) latin squares/rectangles.
+I am developing an R package [{keedwell}](https://github.com/MHenderson/keedwell) for completing and embedding (partial) latin squares/rectangles.
 
 Usage of {keedwell} is demonstrated in these repositories:
 
