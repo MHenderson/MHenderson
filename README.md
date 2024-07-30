@@ -12,6 +12,7 @@ Usage of {wallis} is demonstrated in these repositories:
 - [maximal-room-squares](https://github.com/MHenderson/maximal-room-squares) - generate maximal partial Room squares in R.
 - [more-maximal-room-squares](https://github.com/MHenderson/more-maximal-room-squares) - an R6-based implementation of maximal partial Room squares in R.
 - [greedy-maximal-room-squares](https://github.com/MHenderson/greedy-maximal-room-squares) - exploring the spectra of maximal partial Room squares in R using the wallis package.
+- [random-maximal-room-squares](https://github.com/MHenderson/random-maximal-room-squares) - randomised maximal partial Room squares in R with wallis.
 - [room-squares-animation](https://github.com/MHenderson/room-squares-animation) - animate sequences of partial Room squares.
 
 ## Latin Squares
