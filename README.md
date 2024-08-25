@@ -1,4 +1,4 @@
-- My personal homepage and blog: https://mjhdata.netlify.app/
+- Personal homepage and blog: https://mjhdata.netlify.app/
 - My R packages: https://mhenderson.r-universe.dev
 - My Python packages: https://pypi.org/user/MHenderson/
 
