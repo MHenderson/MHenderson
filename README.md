@@ -4,7 +4,7 @@
 
 ## Room Squares
 
-I am writing a [book](https://github.com/MHenderson/room) about [Room Squares](https://en.wikipedia.org/wiki/Room_square).
+I am writing a [book](https://github.com/MHenderson/room) and a [bibliography](https://github.com/MHenderson/room-squares-bib) about [Room Squares](https://en.wikipedia.org/wiki/Room_square).
 
 I am also developing an R package [{wallis}](https://github.com/MHenderson/wallis) for constructing examples of Room squares.
 
