@@ -26,15 +26,15 @@ I am also developing an R package [{keedwell}](https://github.com/MHenderson/kee
 I am also developing a Python package [{ryser}](https://github.com/MHenderson/ryser) for modelling completion and embedding of partial latin squares and rectangles as list-colouring problems.
 
 {ryser} is demonstrated in this repository:
-- [completing-pls](https://github.com/MHenderson/completing-pls)
+- [completing-pls](https://github.com/MHenderson/completing-pls) - completing partial latin squares in Python with ryser.
 
 ## Graph Theory
 
 I am developing Python packages [{listcolouring}](https://github.com/MHenderson/listcolouring) for list-colourings of graphs and [{vizing}](https://github.com/MHenderson/vizing) for list-colouring via constraint modelling.
 
 {listcolouring} is demonstrated in this repository:
-- [greedy-list-colouring](https://github.com/MHenderson/greedy-list-colouring)
+- [greedy-list-colouring](https://github.com/MHenderson/greedy-list-colouring) - greedy list and greedy list-edge colouring in Python with the listcolouring package.
 
 {vizing} is demonstrated in this repository:
-- [constraint-list-colouring](https://github.com/MHenderson/constraint-list-colouring)
+- [constraint-list-colouring](https://github.com/MHenderson/constraint-list-colouring) - constraint-based list-colouring in Python with vizing.
 
