@@ -12,15 +12,19 @@ The use of these packages is demonstrated in the following repositories:
 
 ### keedwell
 
-- [mhall-in-r](https://github.com/MHenderson/mhall-in-r) - extending latin rectangles in R using Marshall Hall's theorem.
-- [ryser-in-r](https://github.com/MHenderson/ryser-in-r) - extending latin rectangles in R using Ryser's theorem.
+| Repository                                             | Description                                                    |
+|:------------------------------------------------------:|----------------------------------------------------------------|
+| [mhall-in-r](https://github.com/MHenderson/mhall-in-r) | Extending latin rectangles in R using Marshall Hall's theorem. |
+| [ryser-in-r](https://github.com/MHenderson/ryser-in-r) | Extending latin rectangles in R using Ryser's theorem.         |
 
 ### wallis
 
-- [maximal-room-squares](https://github.com/MHenderson/maximal-room-squares) - generate maximal partial Room squares in R.
-- [more-maximal-room-squares](https://github.com/MHenderson/more-maximal-room-squares) - an R6-based implementation of maximal partial Room squares in R.
-- [greedy-maximal-room-squares](https://github.com/MHenderson/greedy-maximal-room-squares) - exploring the spectra of maximal partial Room squares in R using the wallis package.
-- [random-maximal-room-squares](https://github.com/MHenderson/random-maximal-room-squares) - randomised maximal partial Room squares in R with wallis.
+| Repository                                                                                | Description                                                    |
+|:-----------------------------------------------------------------------------------------:|---------------------------------------------------------------------------------------|
+| [maximal-room-squares](https://github.com/MHenderson/maximal-room-squares)                | Generate maximal partial Room squares in R.                                           |
+| [more-maximal-room-squares](https://github.com/MHenderson/more-maximal-room-squares)      | An R6-based implementation of maximal partial Room squares in R.                      |
+| [greedy-maximal-room-squares](https://github.com/MHenderson/greedy-maximal-room-squares)  | Exploring the spectra of maximal partial Room squares in R using the wallis package.|
+| [random-maximal-room-squares](https://github.com/MHenderson/random-maximal-room-squares)  | Randomised maximal partial Room squares in R with wallis.                             |
 
 ## Python
 
@@ -30,13 +34,19 @@ The use of these packages is demonstrated in the following repositories:
 
 ### listcolouring
 
-- [greedy-list-colouring](https://github.com/MHenderson/greedy-list-colouring) - greedy list and greedy list-edge colouring in Python with the listcolouring package.
+| Repository                                                                   | Description                                                                          |
+|:----------------------------------------------------------------------------:|--------------------------------------------------------------------------------------|
+| [greedy-list-colouring](https://github.com/MHenderson/greedy-list-colouring) | Greedy list and greedy list-edge colouring in Python with the listcolouring package. |
 
 ### ryser
 
-- [completing-pls](https://github.com/MHenderson/completing-pls) - completing partial latin squares in Python with ryser.
+| Repository                                                     | Description                                                    |
+|:--------------------------------------------------------------:|----------------------------------------------------------------|
+| [completing-pls](https://github.com/MHenderson/completing-pls) | Completing partial latin squares in Python with ryser.         |
 
 ### vizing
 
-- [constraint-list-colouring](https://github.com/MHenderson/constraint-list-colouring) - constraint-based list-colouring in Python with vizing.
+| Repository                                                                           | Description                                                    |
+|:------------------------------------------------------------------------------------:|----------------------------------------------------------------|
+| [constraint-list-colouring](https://github.com/MHenderson/constraint-list-colouring) | Constraint-based list-colouring in Python with vizing.         |
 
