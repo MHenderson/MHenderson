@@ -19,10 +19,12 @@ The use of these packages is demonstrated in the following repositories:
 
 ### wallis
 
-- [maximal-room-squares](https://github.com/MHenderson/maximal-room-squares) - generate maximal partial Room squares in R.
-- [more-maximal-room-squares](https://github.com/MHenderson/more-maximal-room-squares) - an R6-based implementation of maximal partial Room squares in R.
-- [greedy-maximal-room-squares](https://github.com/MHenderson/greedy-maximal-room-squares) - exploring the spectra of maximal partial Room squares in R using the wallis package.
-- [random-maximal-room-squares](https://github.com/MHenderson/random-maximal-room-squares) - randomised maximal partial Room squares in R with wallis.
+| Repository                                                                                | Description                                                    |
+|:-----------------------------------------------------------------------------------------:|---------------------------------------------------------------------------------------|
+| [maximal-room-squares](https://github.com/MHenderson/maximal-room-squares)                | Generate maximal partial Room squares in R.                                           |
+| [more-maximal-room-squares](https://github.com/MHenderson/more-maximal-room-squares)      | An R6-based implementation of maximal partial Room squares in R.                      |
+| [greedy-maximal-room-squares](https://github.com/MHenderson/greedy-maximal-room-squares)  | Exploring the spectra of maximal partial Room squares in R using the wallis package.|
+| [random-maximal-room-squares](https://github.com/MHenderson/random-maximal-room-squares)  | Randomised maximal partial Room squares in R with wallis.                             |
 
 ## Python
 
