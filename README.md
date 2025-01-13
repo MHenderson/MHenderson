@@ -34,13 +34,19 @@ The use of these packages is demonstrated in the following repositories:
 
 ### listcolouring
 
-- [greedy-list-colouring](https://github.com/MHenderson/greedy-list-colouring) - greedy list and greedy list-edge colouring in Python with the listcolouring package.
+| Repository                                                                   | Description                                                                          |
+|:----------------------------------------------------------------------------:|--------------------------------------------------------------------------------------|
+| [greedy-list-colouring](https://github.com/MHenderson/greedy-list-colouring) | Greedy list and greedy list-edge colouring in Python with the listcolouring package. |
 
 ### ryser
 
-- [completing-pls](https://github.com/MHenderson/completing-pls) - completing partial latin squares in Python with ryser.
+| Repository                                                     | Description                                                    |
+|:--------------------------------------------------------------:|----------------------------------------------------------------|
+| [completing-pls](https://github.com/MHenderson/completing-pls) | Completing partial latin squares in Python with ryser.         |
 
 ### vizing
 
-- [constraint-list-colouring](https://github.com/MHenderson/constraint-list-colouring) - constraint-based list-colouring in Python with vizing.
+| Repository                                                                           | Description                                                    |
+|:------------------------------------------------------------------------------------:|----------------------------------------------------------------|
+| [constraint-list-colouring](https://github.com/MHenderson/constraint-list-colouring) | Constraint-based list-colouring in Python with vizing.         |
 
