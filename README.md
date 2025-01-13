@@ -12,8 +12,10 @@ The use of these packages is demonstrated in the following repositories:
 
 ### keedwell
 
-- [mhall-in-r](https://github.com/MHenderson/mhall-in-r) - extending latin rectangles in R using Marshall Hall's theorem.
-- [ryser-in-r](https://github.com/MHenderson/ryser-in-r) - extending latin rectangles in R using Ryser's theorem.
+| Repository                                             | Description                                                    |
+|:------------------------------------------------------:|----------------------------------------------------------------|
+| [mhall-in-r](https://github.com/MHenderson/mhall-in-r) | Extending latin rectangles in R using Marshall Hall's theorem. |
+| [ryser-in-r](https://github.com/MHenderson/ryser-in-r) | Extending latin rectangles in R using Ryser's theorem.         |
 
 ### wallis
 
