@@ -6,9 +6,9 @@
 
 ## R
 
-I am developing R packages [{wallis}](https://github.com/MHenderson/wallis) for constructing examples of [Room Squares](https://en.wikipedia.org/wiki/Room_square) and [{keedwell}](https://github.com/MHenderson/keedwell) for completing and embedding (partial) latin squares/rectangles.
+I am developing R packages [{keedwell}](https://github.com/MHenderson/keedwell) for completing and embedding (partial) latin squares/rectangles and [{wallis}](https://github.com/MHenderson/wallis) for constructing examples of [Room Squares](https://en.wikipedia.org/wiki/Room_square).
 
-The use of these packages is demonstrated in the following repositories:
+Use of these packages is demonstrated in these repositories:
 
 ### keedwell
 
@@ -19,18 +19,18 @@ The use of these packages is demonstrated in the following repositories:
 
 ### wallis
 
-| Repository                                                                                | Description                                                    |
+| Repository                                                                                | Description                                                                           |
 |:-----------------------------------------------------------------------------------------:|---------------------------------------------------------------------------------------|
 | [maximal-room-squares](https://github.com/MHenderson/maximal-room-squares)                | Generate maximal partial Room squares in R.                                           |
 | [more-maximal-room-squares](https://github.com/MHenderson/more-maximal-room-squares)      | An R6-based implementation of maximal partial Room squares in R.                      |
-| [greedy-maximal-room-squares](https://github.com/MHenderson/greedy-maximal-room-squares)  | Exploring the spectra of maximal partial Room squares in R using the wallis package.|
+| [greedy-maximal-room-squares](https://github.com/MHenderson/greedy-maximal-room-squares)  | Exploring the spectra of maximal partial Room squares in R using the wallis package.  |
 | [random-maximal-room-squares](https://github.com/MHenderson/random-maximal-room-squares)  | Randomised maximal partial Room squares in R with wallis.                             |
 
 ## Python
 
-I am also developing Python packages [{ryser}](https://github.com/MHenderson/ryser) for modelling completion and embedding problems for partial latin squares as list-colouring problems, [{listcolouring}](https://github.com/MHenderson/listcolouring) for list-colourings of graphs and [{vizing}](https://github.com/MHenderson/vizing) for list-colouring via constraint modelling.
+I am also developing Python packages [{listcolouring}](https://github.com/MHenderson/listcolouring) for list-colourings of graphs, [{ryser}](https://github.com/MHenderson/ryser) for modelling completion and embedding problems for partial latin squares as list-colouring problems and [{vizing}](https://github.com/MHenderson/vizing) for list-colouring via constraint modelling.
 
-The use of these packages is demonstrated in the following repositories:
+Use of these packages is demonstrated in these repositories:
 
 ### listcolouring
 
