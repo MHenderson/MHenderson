@@ -10,21 +10,13 @@ I am developing R packages [{keedwell}](https://github.com/MHenderson/keedwell) 
 
 Use of these packages is demonstrated in these repositories:
 
-### keedwell
-
-| Repository                                             | Description                                                    |
-|:------------------------------------------------------:|----------------------------------------------------------------|
-| [mhall-in-r](https://github.com/MHenderson/mhall-in-r) | Extending latin rectangles in R using Marshall Hall's theorem. |
-| [ryser-in-r](https://github.com/MHenderson/ryser-in-r) | Extending latin rectangles in R using Ryser's theorem.         |
-
-### wallis
-
-| Repository                                                                                | Description                                                                           |
-|:-----------------------------------------------------------------------------------------:|---------------------------------------------------------------------------------------|
-| [maximal-room-squares](https://github.com/MHenderson/maximal-room-squares)                | Generate maximal partial Room squares in R.                                           |
-| [more-maximal-room-squares](https://github.com/MHenderson/more-maximal-room-squares)      | An R6-based implementation of maximal partial Room squares in R.                      |
-| [greedy-maximal-room-squares](https://github.com/MHenderson/greedy-maximal-room-squares)  | Exploring the spectra of maximal partial Room squares in R using the wallis package.  |
-| [random-maximal-room-squares](https://github.com/MHenderson/random-maximal-room-squares)  | Randomised maximal partial Room squares in R with wallis.                             |
+| Repository                                                                                | Description                                                                   |
+|:-----------------------------------------------------------------------------------------:|-------------------------------------------------------------------------------|
+| [mhall-in-r](https://github.com/MHenderson/mhall-in-r)                                    | Extending latin rectangles in R using Marshall Hall's theorem and {keedwell}. |
+| [ryser-in-r](https://github.com/MHenderson/ryser-in-r)                                    | Extending latin rectangles in R using Ryser's theorem and {keedwell}.         |
+| [maximal-room-squares](https://github.com/MHenderson/maximal-room-squares)                | Generate maximal partial Room squares in R with {wallis}.                     |
+| [greedy-maximal-room-squares](https://github.com/MHenderson/greedy-maximal-room-squares)  | Exploring the spectra of maximal partial Room squares in R with {wallis}.     |
+| [random-maximal-room-squares](https://github.com/MHenderson/random-maximal-room-squares)  | Randomised maximal partial Room squares in R with {wallis}.                   |
 
 ## Python
 
