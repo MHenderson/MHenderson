@@ -1,10 +1,3 @@
-
-| Site                              | Description                 |
-|:---------------------------------:|:---------------------------:|
-| https://mjhdata.netlify.app/      | Personal homepage and blog. |
-| https://mhenderson.r-universe.dev | My R packages.              |
-| https://pypi.org/user/MHenderson/ | My Python packages.         |
-
 I am developing R packages [{keedwell}](https://github.com/MHenderson/keedwell) for completing and embedding (partial) latin squares/rectangles and [{wallis}](https://github.com/MHenderson/wallis) for constructing examples of [Room Squares](https://en.wikipedia.org/wiki/Room_square).
 
 | Repository                                                                                | Description                                                                   |
