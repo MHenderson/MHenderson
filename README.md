@@ -1,14 +1,11 @@
-- Personal homepage and blog: https://mjhdata.netlify.app/
 
-- My R packages: https://mhenderson.r-universe.dev
-
-- My Python packages: https://pypi.org/user/MHenderson/
+| https://mjhdata.netlify.app/      | Personal homepage and blog. |
+| https://mhenderson.r-universe.dev | My R packages.              |
+| https://pypi.org/user/MHenderson/ | My Python packages.         |
 
 ## R
 
 I am developing R packages [{keedwell}](https://github.com/MHenderson/keedwell) for completing and embedding (partial) latin squares/rectangles and [{wallis}](https://github.com/MHenderson/wallis) for constructing examples of [Room Squares](https://en.wikipedia.org/wiki/Room_square).
-
-Use of these packages is demonstrated in these repositories:
 
 | Repository                                                                                | Description                                                                   |
 |:-----------------------------------------------------------------------------------------:|-------------------------------------------------------------------------------|
@@ -21,8 +18,6 @@ Use of these packages is demonstrated in these repositories:
 ## Python
 
 I am also developing Python packages [{listcolouring}](https://github.com/MHenderson/listcolouring) for list-colourings of graphs, [{ryser}](https://github.com/MHenderson/ryser) for modelling completion and embedding problems for partial latin squares as list-colouring problems and [{vizing}](https://github.com/MHenderson/vizing) for list-colouring via constraint modelling.
-
-Use of these packages is demonstrated in these repositories:
 
 | Repository                                                                           | Description                                                                          |
 |:------------------------------------------------------------------------------------:|--------------------------------------------------------------------------------------|
