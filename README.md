@@ -1,7 +1,7 @@
 I am developing R packages [{keedwell}](https://github.com/MHenderson/keedwell) for completing and embedding (partial) latin squares/rectangles and [{wallis}](https://github.com/MHenderson/wallis) for constructing examples of [Room Squares](https://en.wikipedia.org/wiki/Room_square).
 
 | Repository                                                                                | Description                                                                   |
-|:-----------------------------------------------------------------------------------------:|:-----------------------------------------------------------------------------:|
+|------------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------|
 | [mhall-in-r](https://github.com/MHenderson/mhall-in-r)                                    | Extending latin rectangles in R using Marshall Hall's theorem and {keedwell}. |
 | [ryser-in-r](https://github.com/MHenderson/ryser-in-r)                                    | Extending latin rectangles in R using Ryser's theorem and {keedwell}.         |
 | [maximal-room-squares](https://github.com/MHenderson/maximal-room-squares)                | Generate maximal partial Room squares in R with {wallis}.                     |
@@ -11,7 +11,7 @@ I am developing R packages [{keedwell}](https://github.com/MHenderson/keedwell) 
 I am also developing Python packages [{listcolouring}](https://github.com/MHenderson/listcolouring) for list-colourings of graphs, [{ryser}](https://github.com/MHenderson/ryser) for modelling completion and embedding problems for partial latin squares as list-colouring problems and [{vizing}](https://github.com/MHenderson/vizing) for list-colouring via constraint modelling.
 
 | Repository                                                                           | Description                                                                          |
-|:------------------------------------------------------------------------------------:|:------------------------------------------------------------------------------------:|
+|-------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------|
 | [greedy-list-colouring](https://github.com/MHenderson/greedy-list-colouring)         | Greedy list and greedy list-edge colouring in Python with {listcolouring}.           |
 | [completing-pls](https://github.com/MHenderson/completing-pls)                       | Completing partial latin squares in Python with {ryser}.                             |
 | [constraint-list-colouring](https://github.com/MHenderson/constraint-list-colouring) | Constraint-based list-colouring in Python with {vizing}.                             |
